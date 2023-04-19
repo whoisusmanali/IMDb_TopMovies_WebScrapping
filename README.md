@@ -7,5 +7,6 @@ In this project I use IMDb website to get all the detail about movies like the n
 2. request
 3. pandas
 
+
 ## Step involved:
 
