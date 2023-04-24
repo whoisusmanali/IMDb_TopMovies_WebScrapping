@@ -22,3 +22,4 @@ In this project I use IMDb website to get all the detail about movies like the n
 11. Store the dictionary into pandas dataframe.
 12. Now save the data into .cvs format.
 
+
