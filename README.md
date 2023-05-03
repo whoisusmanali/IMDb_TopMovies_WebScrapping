@@ -30,5 +30,8 @@ In this project I use IMDb website to get all the detail about movies like the n
 ## Website:
 ![image](https://user-images.githubusercontent.com/104086680/235835545-93fe60e6-1eb1-4b5c-bb7a-c7acf2e50b14.png)
 
+![image](https://user-images.githubusercontent.com/104086680/235835613-d1a94263-cc1f-478f-9ae3-4dcc5b581b2d.png)
+
+
 
 
