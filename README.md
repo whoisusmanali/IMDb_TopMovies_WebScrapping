@@ -25,3 +25,6 @@ In this project I use IMDb website to get all the detail about movies like the n
 # Screenshots:
 ![image](https://user-images.githubusercontent.com/104086680/235835271-ef29956e-263f-4f20-963f-6a56b38e40b7.png)
 
+![image](https://user-images.githubusercontent.com/104086680/235835408-f3c3ec2d-ecd4-434b-a274-c71ac90a8b9d.png)
+
+
